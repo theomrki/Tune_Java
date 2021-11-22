@@ -1,0 +1,50 @@
+id,denomination,id_category
+1,violon,1
+2,alto,1
+3,violoncelle,1
+4,contrebasse,1
+5,viole de gambe,1
+6,octobasse,1
+7,banjo,2
+8,contrebassine,2
+9,guitare,2
+10,harpe,2
+11,luth,2
+12,lyre,2
+13,mandoline,2
+14,gouroumi,2
+15,clavecin,2
+16,épinette,2
+17,piano,3
+18,cymbalum,3
+19,xylophone,4
+20,vibraphone,4
+21,marimba,4
+22,timbales,4
+23,tongue drum,4
+24,batterie,5
+25,caisse claire,5
+26,grosse caisse,5
+27,toms,5
+28,cymbales,5
+29,tambour,5
+30,tambourin,5
+31,castagnettes,5
+32,claves,5
+33,gong,5
+34,caixa,5
+35,tamborim,5
+36,voix,6
+37,orgue,6
+38,trompette,7
+39,cor d'harmonie,7
+40,trombone,7
+41,tuba,7
+42,flûte à bec,8
+43,flûte traversière,8
+44,clarinette,9
+45,saxophone,9
+46,hautbois,10
+47,basson,10
+48,contrbasson,10
+49,cor anglais,10
